@@ -26,7 +26,7 @@ app.use(helmet());
 //cors
 app.use(
   cors({
-    origin: ["https://pixify-kappa.vercel.app", "http://localhost:3000"],
+    origin: ["https://pixify-x8.vercel.app", "http://localhost:3000"],
     credentials: true,
   })
 );
