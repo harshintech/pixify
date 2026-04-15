@@ -64,7 +64,7 @@ const RightSidebar = () => {
         <h1 className="font-semibold text-gray-700">Suggested User</h1>
         <h1 className="font-medium cursor-pointer">See all</h1>
       </div>
-      {suggestedUser?.slice(0, 5).map((s_user) => {
+      {suggestedUser?.slice(0, 15).map((s_user) => {
         return (
           <div
             onClick={() => {
