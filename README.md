@@ -1,7 +1,7 @@
 # [Pixify](https://pixify-your-live-link.vercel.app/)
 **Modern Social Media Platform – Instagram Clone ✨**
 
-[👉 Live Demo](https://pixify-kappa.vercel.app)
+[👉 Live Demo](https://pixify-x8.vercel.app)
 
 ![Pixify Preview](frontend/public/images/PixifyUi.png)
 
